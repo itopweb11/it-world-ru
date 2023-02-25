@@ -2,6 +2,7 @@
   "name": "it_world_russia",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://itopweb11.github.io/it-world-ru",
   "dependencies": {
     "@npmcli/move-file": "^3.0.0",
     "@testing-library/jest-dom": "^5.16.5",
