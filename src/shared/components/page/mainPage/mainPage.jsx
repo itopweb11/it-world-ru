@@ -1,10 +1,10 @@
 import React from "react";
-import Title from "../../../img/Title.png"
-import SearchMap from "../../../img/search-map.png"
+import Title from "../../../../img/Title.png"
+import SearchMap from "../../../../img/search-map.png"
 import MainContent from "./mainContent";
 import MainContentSlider from "./mainContentSlider";
 
-const MainPage = () => {
+const MainPage = ({}) => {
     return (
         <div className="mainPage">
             <img className="mainPage__title" src={Title} alt="title"/>

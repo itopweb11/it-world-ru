@@ -1,8 +1,8 @@
 import React from "react";
-import Frame from "../../../img/Frame.png"
-import Component1 from "../../../img/Component1.png"
-import Component from "../../../img/Component.png"
-import Button from "../../components/button";
+import Frame from "../../../../img/Frame.png"
+import Component1 from "../../../../img/Component1.png"
+import Component from "../../../../img/Component.png"
+import Button from "../../button";
 
 const MainContent = () => {
     return (
