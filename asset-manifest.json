@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/itopweb11.github.io/it-world-ru/static/css/main.f9291402.css",
-    "main.js": "/itopweb11.github.io/it-world-ru/static/js/main.596f94e6.js",
-    "static/js/787.cc7a11d6.chunk.js": "/itopweb11.github.io/it-world-ru/static/js/787.cc7a11d6.chunk.js",
-    "static/media/background.png": "/itopweb11.github.io/it-world-ru/static/media/background.cde9d95f49f6afe0df7b.png",
-    "static/media/search-map.png": "/itopweb11.github.io/it-world-ru/static/media/search-map.fe816411ad4ab3838de9.png",
-    "static/media/Frame1.png": "/itopweb11.github.io/it-world-ru/static/media/Frame1.94a3aa59d87d97c40bff.png",
-    "static/media/Frame2.png": "/itopweb11.github.io/it-world-ru/static/media/Frame2.617e0ec18258d8cc36b3.png",
-    "static/media/Frame3.png": "/itopweb11.github.io/it-world-ru/static/media/Frame3.76cf3ce6756919d90d0d.png",
-    "static/media/Title.png": "/itopweb11.github.io/it-world-ru/static/media/Title.2728febc35daa0c96145.png",
-    "static/media/Frame.png": "/itopweb11.github.io/it-world-ru/static/media/Frame.334b1b24e1e74d3c3ed4.png",
-    "static/media/Component1.png": "/itopweb11.github.io/it-world-ru/static/media/Component1.1c8ef862a1fa193f2ad7.png",
-    "static/media/slick.svg": "/itopweb11.github.io/it-world-ru/static/media/slick.2630a3e3eab21c607e21.svg",
-    "static/media/slick.eot": "/itopweb11.github.io/it-world-ru/static/media/slick.a4e97f5a2a64f0ab1323.eot",
-    "static/media/slick.ttf": "/itopweb11.github.io/it-world-ru/static/media/slick.c94f7671dcc99dce43e2.ttf",
-    "static/media/slick.woff": "/itopweb11.github.io/it-world-ru/static/media/slick.295183786cd8a1389865.woff",
-    "index.html": "/itopweb11.github.io/it-world-ru/index.html",
-    "static/media/Search.svg": "/itopweb11.github.io/it-world-ru/static/media/Search.bf291f75d9325c0030e553a1c9e16de0.svg",
-    "main.f9291402.css.map": "/itopweb11.github.io/it-world-ru/static/css/main.f9291402.css.map",
-    "main.596f94e6.js.map": "/itopweb11.github.io/it-world-ru/static/js/main.596f94e6.js.map",
-    "787.cc7a11d6.chunk.js.map": "/itopweb11.github.io/it-world-ru/static/js/787.cc7a11d6.chunk.js.map"
+    "main.css": "/%3Cyour-github-repo-name%3E/static/css/main.ab9e8971.css",
+    "main.js": "/%3Cyour-github-repo-name%3E/static/js/main.168181b8.js",
+    "static/js/787.cc7a11d6.chunk.js": "/%3Cyour-github-repo-name%3E/static/js/787.cc7a11d6.chunk.js",
+    "static/media/background.png": "/%3Cyour-github-repo-name%3E/static/media/background.cde9d95f49f6afe0df7b.png",
+    "static/media/search-map.png": "/%3Cyour-github-repo-name%3E/static/media/search-map.fe816411ad4ab3838de9.png",
+    "static/media/Frame1.png": "/%3Cyour-github-repo-name%3E/static/media/Frame1.94a3aa59d87d97c40bff.png",
+    "static/media/Frame2.png": "/%3Cyour-github-repo-name%3E/static/media/Frame2.617e0ec18258d8cc36b3.png",
+    "static/media/Frame3.png": "/%3Cyour-github-repo-name%3E/static/media/Frame3.76cf3ce6756919d90d0d.png",
+    "static/media/Title.png": "/%3Cyour-github-repo-name%3E/static/media/Title.2728febc35daa0c96145.png",
+    "static/media/Frame.png": "/%3Cyour-github-repo-name%3E/static/media/Frame.334b1b24e1e74d3c3ed4.png",
+    "static/media/Component1.png": "/%3Cyour-github-repo-name%3E/static/media/Component1.1c8ef862a1fa193f2ad7.png",
+    "static/media/slick.svg": "/%3Cyour-github-repo-name%3E/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/%3Cyour-github-repo-name%3E/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/%3Cyour-github-repo-name%3E/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/%3Cyour-github-repo-name%3E/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/%3Cyour-github-repo-name%3E/index.html",
+    "static/media/Search.svg": "/%3Cyour-github-repo-name%3E/static/media/Search.bf291f75d9325c0030e553a1c9e16de0.svg",
+    "main.ab9e8971.css.map": "/%3Cyour-github-repo-name%3E/static/css/main.ab9e8971.css.map",
+    "main.168181b8.js.map": "/%3Cyour-github-repo-name%3E/static/js/main.168181b8.js.map",
+    "787.cc7a11d6.chunk.js.map": "/%3Cyour-github-repo-name%3E/static/js/787.cc7a11d6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f9291402.css",
-    "static/js/main.596f94e6.js"
+    "static/css/main.ab9e8971.css",
+    "static/js/main.168181b8.js"
   ]
 }
