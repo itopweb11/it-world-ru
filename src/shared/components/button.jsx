@@ -1,9 +1,9 @@
 import React from "react";
 
-const Button = (button, setRegistration) => {
+const Button = (button, buttonType) => {
 
     return (
-        <button onClick={() => {setRegistration(true)}} className="button">
+        <button type={buttonType} className="button">
             {button.button}
         </button>
     )
