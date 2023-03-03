@@ -5,6 +5,7 @@ import {Link} from "react-router-dom";
 import BasicModal from "./pageHelp/pageHelpModal";
 
 const Header = ({setRegistration}) => {
+
     return (
         <div className="header">
             <Link to="/">
