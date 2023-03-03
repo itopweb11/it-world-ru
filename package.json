@@ -2,7 +2,7 @@
   "name": "it_world_russia",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://itopweb11.github.io/it-world-ru",
+  "homepage": "/<your-github-repo-name>/#",
   "dependencies": {
     "@emotion/react": "^11.10.6",
     "@emotion/styled": "^11.10.6",

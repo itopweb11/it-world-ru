@@ -22,7 +22,7 @@ export default function BasicModal() {
 
     return (
         <div>
-            <p onClick={handleOpen}>ПОДЕРЖКА</p>
+            <p onClick={handleOpen}>ПОМОЩЬ</p>
             <Modal
                 open={open}
                 onClose={handleClose}
