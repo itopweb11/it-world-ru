@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/it-world-ru/static/css/main.470c75e6.css",
-    "main.js": "/it-world-ru/static/js/main.fd97915e.js",
+    "main.css": "/it-world-ru/static/css/main.e6bf9920.css",
+    "main.js": "/it-world-ru/static/js/main.9565e451.js",
     "static/js/787.cc7a11d6.chunk.js": "/it-world-ru/static/js/787.cc7a11d6.chunk.js",
     "static/media/background.png": "/it-world-ru/static/media/background.cde9d95f49f6afe0df7b.png",
     "static/media/search-map.png": "/it-world-ru/static/media/search-map.fe816411ad4ab3838de9.png",
@@ -17,12 +17,12 @@
     "static/media/slick.woff": "/it-world-ru/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/it-world-ru/index.html",
     "static/media/Search.svg": "/it-world-ru/static/media/Search.bf291f75d9325c0030e553a1c9e16de0.svg",
-    "main.470c75e6.css.map": "/it-world-ru/static/css/main.470c75e6.css.map",
-    "main.fd97915e.js.map": "/it-world-ru/static/js/main.fd97915e.js.map",
+    "main.e6bf9920.css.map": "/it-world-ru/static/css/main.e6bf9920.css.map",
+    "main.9565e451.js.map": "/it-world-ru/static/js/main.9565e451.js.map",
     "787.cc7a11d6.chunk.js.map": "/it-world-ru/static/js/787.cc7a11d6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.470c75e6.css",
-    "static/js/main.fd97915e.js"
+    "static/css/main.e6bf9920.css",
+    "static/js/main.9565e451.js"
   ]
 }
