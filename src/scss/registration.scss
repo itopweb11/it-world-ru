@@ -74,10 +74,12 @@
     &_button {
       display: flex;
       justify-content: center;
+      margin-top: 32px;
     }
 
     &_buttons {
       display: flex;
+      margin-top: 32px;
 
       button:last-child {
         margin-left: 23px;

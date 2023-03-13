@@ -1,0 +1,79 @@
+.globalSearch {
+  &__favorites {
+    display: flex;
+    flex-direction: column;
+    align-items: end;
+    margin-top: 25px;
+
+    img {
+      margin-right: 13px;
+      cursor: pointer;
+
+      &:hover {
+        fill: red;
+      }
+    }
+
+    p {
+      font-weight: 400;
+      font-size: 14px;
+      color: #FFFFFF;
+      margin-top: 5px;
+      cursor: pointer;
+
+      &:hover {
+        color: #a179d5;
+      }
+    }
+  }
+
+  &__title {
+    text-align: center;
+    color: #FFFFFF;
+    font-weight: 700;
+    font-size: 36px;
+  }
+
+  &__forms {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px;
+  }
+
+  &__button {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin:180px 0 108px 0;
+  }
+}
+
+.formControl {
+  margin: 10px;
+  min-width: 120px;
+}
+
+.MuiFormLabel-root {
+  font-weight: 700!important;
+  font-size: 20px!important;
+  color: #FFFFFF!important;
+}
+
+.MuiInputBase-input {
+  background-color: #FFFFFF!important;
+  margin-top: 8px!important;
+}
+
+.MuiSelect-select.MuiSelect-select {
+  width: 200px;
+  height: 27px;
+  padding-left: 6px;
+  font-weight: 400;
+  font-size: 16px;
+}
+
+.MuiSelect-select {
+  option {
+
+  }
+}
