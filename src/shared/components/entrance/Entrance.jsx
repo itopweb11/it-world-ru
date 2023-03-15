@@ -1,14 +1,14 @@
-import React from "react";
+import React from 'react';
 import Button from "../button";
 import {BaseLayout} from "../baseLayout";
 
-const Registration = () => {
-    return (
+const Entrance = () => {
+    return(
         <BaseLayout>
             <div className=" container registration">
-                <h1 className="registration__title">Регистрация</h1>
+                <h1 className="registration__title">Вход</h1>
                 <div className="registration__block">
-                    <h5 className="registration__block_title">Регистрация</h5>
+                    <h5 className="registration__block_title">Вход</h5>
                     <div className="registration__block_content">
                         <div>
                             <p>E-mail</p>
@@ -18,11 +18,8 @@ const Registration = () => {
                             <p>Пароль</p>
                             <input type="text" placeholder="Password"/>
                         </div>
-                        <div>
-                            <p>Повторить пароль</p>
-                            <input type="text" placeholder="Repeat password"/>
-                        </div>
-                        <div className="registration__block_button">
+                        <div className="registration__block_buttons">
+                            <Button button={"Вход"}/>
                             <Button button={"Зарегистрироваться"}/>
                         </div>
                     </div>
@@ -32,4 +29,4 @@ const Registration = () => {
     )
 }
 
-export default Registration;
+export default Entrance;

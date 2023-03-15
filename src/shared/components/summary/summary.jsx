@@ -20,23 +20,6 @@ const Summary = () => {
         slidesToScroll: 1,
         arrows: false,
         dots: false,
-        /*appendDots: dots => {
-            console.log("dots", dots);
-            return (
-                <div className="slider__dots_container">
-                    <div className="slider__dots_container_block">
-                        <button onClick={() => (sliderRef.current.slickPrev())}>В начало</button>
-                        <ul className="slider__dots"> {dots} </ul>
-                        <button onClick={() => (sliderRef.current.slickNext())}>Дальше</button>
-                    </div>
-                </div>
-            )
-        },*/
-        /*customPaging: i => (
-            <div className="slider__dot">
-                {i + 1}
-            </div>
-        )*/
     }
     return (
         <BaseLayout>

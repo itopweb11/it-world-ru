@@ -4,7 +4,7 @@ import search from "../../img/Search.svg"
 import {Link} from "react-router-dom";
 import BasicModal from "./pageHelp/pageHelpModal";
 
-const Header = ({setRegistration}) => {
+const Header = () => {
     return (
         <div className="header">
             <Link to="/">
@@ -12,10 +12,10 @@ const Header = ({setRegistration}) => {
             </Link>
             <p className="header__p">Я работодатель</p>
             <Link to="/registration">
-                <p onClick={() => setRegistration(true)}>Регистрация</p>
+                <p>Регистрация</p>
             </Link>
-            <Link to="/registration">
-                <p onClick={() => setRegistration(false)}>Вход</p>
+            <Link to="/entrance">
+                <p>Вход</p>
             </Link>
             <BasicModal />
             <div className="header__search">

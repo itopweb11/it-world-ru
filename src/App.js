@@ -4,6 +4,7 @@ import Registration from "./shared/components/registration/registration";
 import {Route, Routes} from "react-router-dom";
 import GlobalSearch from "./shared/components/globalSearch/globalSearch";
 import Summary from "./shared/components/summary/summary";
+import Entrance from "./shared/components/entrance/Entrance";
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
                   <Route exact path="/registration" element={<Registration />} />
                   <Route exact path="/globalSearch" element={<GlobalSearch />} />
                   <Route exact path="/summary" element={<Summary />} />
+                  <Route exact path="/entrance" element={<Entrance />} />
               </Routes>
           </div>
       </div>
