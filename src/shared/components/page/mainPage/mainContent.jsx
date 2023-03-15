@@ -14,10 +14,12 @@ const MainContent = () => {
                     <img src={Frame} alt="Frame"/>
                     <p>Найди стажировку</p>
                 </div>
-                <div  className="mainContent__blocks_block">
-                    <img src={Component1} alt="Component1"/>
-                    <p>Составь резюме</p>
-                </div>
+                <Link to="/summary">
+                    <div  className="mainContent__blocks_block">
+                        <img src={Component1} alt="Component1"/>
+                        <p>Составь резюме</p>
+                    </div>
+                </Link>
                 <div  className="mainContent__blocks_block">
                     <img src={Component} alt="Component"/>
                     <p>Пройди собеседование</p>

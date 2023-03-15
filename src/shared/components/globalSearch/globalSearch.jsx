@@ -22,7 +22,6 @@ const GlobalSearch = () => {
                     <FormControl className='formControl'>
                         <InputLabel htmlFor="grouped-native-select">Город</InputLabel>
                         <Select native defaultValue="" id="grouped-native-select">
-                            <option aria-label="None" value="Город" />
                             <option>Москва</option>
                             <option>Санкт-Петербург</option>
                             <option>Екатеринбург</option>
@@ -33,7 +32,6 @@ const GlobalSearch = () => {
                     <FormControl className='formControl'>
                         <InputLabel htmlFor="grouped-native-select">Направление</InputLabel>
                         <Select native defaultValue="" id="grouped-native-select">
-                            <option aria-label="None" value="Направление" />
                             <option>Разработчик</option>
                             <option>Дизайнер</option>
                             <option>Аналитик</option>
@@ -44,7 +42,6 @@ const GlobalSearch = () => {
                     <FormControl className='formControl'>
                         <InputLabel htmlFor="grouped-native-select">Длительность</InputLabel>
                         <Select native defaultValue="" id="grouped-native-select">
-                            <option aria-label="None" value="Длительность" />
                             <option>1 месяц</option>
                             <option>3 месяц</option>
                             <option>6 месяц</option>
@@ -55,7 +52,6 @@ const GlobalSearch = () => {
                     <FormControl className='formControl'>
                         <InputLabel htmlFor="grouped-native-select">Формат</InputLabel>
                         <Select native defaultValue="" id="grouped-native-select">
-                            <option aria-label="None" value="Формат" />
                             <option>Онлайн</option>
                             <option>Оффлайн</option>
                             <option>Гибридный формат</option>
@@ -65,7 +61,6 @@ const GlobalSearch = () => {
                 <div className='globalSearch__button'>
                     <Button button={"НАЧАТЬ ПОИСК"}/>
                 </div>
-
             </div>
         </BaseLayout>
     )

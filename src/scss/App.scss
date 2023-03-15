@@ -9,9 +9,14 @@
 @import "pageHelp.scss";
 @import "pageHelpModal.scss";
 @import "globalSearch.scss";
+@import "summary.scss";
 
 .App {
     display: flex;
     flex-direction: column;
     align-items: center;
+}
+
+a {
+    text-decoration: none;
 }
