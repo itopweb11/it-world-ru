@@ -10,20 +10,24 @@ const MainContent = () => {
         <div className="mainContent">
             <h3>3 шага к твоей стажировке </h3>
             <div className="mainContent__blocks">
-                <div  className="mainContent__blocks_block">
-                    <img src={Frame} alt="Frame"/>
-                    <p>Найди стажировку</p>
-                </div>
+                <Link to="pageError">
+                    <div  className="mainContent__blocks_block">
+                        <img src={Frame} alt="Frame"/>
+                        <p>Найди стажировку</p>
+                    </div>
+                </Link>
                 <Link to="/summary">
                     <div  className="mainContent__blocks_block">
                         <img src={Component1} alt="Component1"/>
                         <p>Составь резюме</p>
                     </div>
                 </Link>
-                <div  className="mainContent__blocks_block">
-                    <img src={Component} alt="Component"/>
-                    <p>Пройди собеседование</p>
-                </div>
+                <Link to="pageError">
+                    <div  className="mainContent__blocks_block">
+                        <img src={Component} alt="Component"/>
+                        <p>Пройди собеседование</p>
+                    </div>
+                </Link>
             </div>
             <div className='mainContent__button'>
                 <Link to="/globalSearch">
