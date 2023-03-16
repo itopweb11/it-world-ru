@@ -10,7 +10,9 @@ const Header = () => {
             <Link to="/">
                 <img className="header__logo" src={logo} alt="logo"/>
             </Link>
-            <p className="header__p">Я работодатель</p>
+            <Link to="/pageError">
+                <p className="header__p">Я работодатель</p>
+            </Link>
             <Link to="/registration">
                 <p>Регистрация</p>
             </Link>

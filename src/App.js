@@ -5,6 +5,7 @@ import {Route, Routes} from "react-router-dom";
 import GlobalSearch from "./shared/components/globalSearch/globalSearch";
 import Summary from "./shared/components/summary/summary";
 import Entrance from "./shared/components/entrance/Entrance";
+import PageError from "./shared/components/pageError/pageError";
 
 function App() {
   return (
@@ -16,6 +17,7 @@ function App() {
                   <Route exact path="/globalSearch" element={<GlobalSearch />} />
                   <Route exact path="/summary" element={<Summary />} />
                   <Route exact path="/entrance" element={<Entrance />} />
+                  <Route exact path="/pageError" element={<PageError />} />
               </Routes>
           </div>
       </div>
