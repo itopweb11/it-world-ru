@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/it-world-ru/static/css/main.8a800e9e.css",
+    "main.css": "/it-world-ru/static/css/main.57f446e6.css",
     "main.js": "/it-world-ru/static/js/main.76485c54.js",
     "static/js/787.cc7a11d6.chunk.js": "/it-world-ru/static/js/787.cc7a11d6.chunk.js",
     "static/media/background.png": "/it-world-ru/static/media/background.cde9d95f49f6afe0df7b.png",
@@ -26,12 +26,12 @@
     "static/media/Union.svg": "/it-world-ru/static/media/Union.0a0706818a673bd62454ecab48e61cfd.svg",
     "index.html": "/it-world-ru/index.html",
     "static/media/Search.svg": "/it-world-ru/static/media/Search.bf291f75d9325c0030e553a1c9e16de0.svg",
-    "main.8a800e9e.css.map": "/it-world-ru/static/css/main.8a800e9e.css.map",
+    "main.57f446e6.css.map": "/it-world-ru/static/css/main.57f446e6.css.map",
     "main.76485c54.js.map": "/it-world-ru/static/js/main.76485c54.js.map",
     "787.cc7a11d6.chunk.js.map": "/it-world-ru/static/js/787.cc7a11d6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8a800e9e.css",
+    "static/css/main.57f446e6.css",
     "static/js/main.76485c54.js"
   ]
 }
