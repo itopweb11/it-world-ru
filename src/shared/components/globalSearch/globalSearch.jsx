@@ -1,10 +1,7 @@
 import React from "react";
 import {BaseLayout} from "../baseLayout";
 import Union from  "../../../img/Union.svg"
-import { makeStyles } from '@material-ui/core/styles';
 import InputLabel from '@material-ui/core/InputLabel';
-import MenuItem from '@material-ui/core/MenuItem';
-import ListSubheader from '@material-ui/core/ListSubheader';
 import FormControl from '@material-ui/core/FormControl';
 import Select from '@material-ui/core/Select';
 import Button from "../button";
@@ -22,6 +19,7 @@ const GlobalSearch = () => {
                     <FormControl className='formControl'>
                         <InputLabel htmlFor="grouped-native-select">Город</InputLabel>
                         <Select native defaultValue="" id="grouped-native-select">
+                            <option>Все</option>
                             <option>Москва</option>
                             <option>Санкт-Петербург</option>
                             <option>Екатеринбург</option>
@@ -32,6 +30,7 @@ const GlobalSearch = () => {
                     <FormControl className='formControl'>
                         <InputLabel htmlFor="grouped-native-select">Направление</InputLabel>
                         <Select native defaultValue="" id="grouped-native-select">
+                            <option>Все</option>
                             <option>Разработчик</option>
                             <option>Дизайнер</option>
                             <option>Аналитик</option>
@@ -42,6 +41,7 @@ const GlobalSearch = () => {
                     <FormControl className='formControl'>
                         <InputLabel htmlFor="grouped-native-select">Длительность</InputLabel>
                         <Select native defaultValue="" id="grouped-native-select">
+                            <option>Не имеет значения</option>
                             <option>1 месяц</option>
                             <option>3 месяц</option>
                             <option>6 месяц</option>
@@ -52,6 +52,7 @@ const GlobalSearch = () => {
                     <FormControl className='formControl'>
                         <InputLabel htmlFor="grouped-native-select">Формат</InputLabel>
                         <Select native defaultValue="" id="grouped-native-select">
+                            <option>Любой</option>
                             <option>Онлайн</option>
                             <option>Оффлайн</option>
                             <option>Гибридный формат</option>
