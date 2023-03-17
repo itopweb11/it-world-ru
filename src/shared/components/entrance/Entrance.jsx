@@ -1,6 +1,7 @@
 import React from 'react';
 import Button from "../button";
 import {BaseLayout} from "../baseLayout";
+import {Link} from "react-router-dom";
 
 const Entrance = () => {
     return(
@@ -20,7 +21,9 @@ const Entrance = () => {
                         </div>
                         <div className="registration__block_buttons">
                             <Button button={"Вход"}/>
-                            <Button button={"Зарегистрироваться"}/>
+                            <Link to="/registration">
+                                <Button button={"Зарегистрироваться"}/>
+                            </Link>
                         </div>
                     </div>
                 </div>
