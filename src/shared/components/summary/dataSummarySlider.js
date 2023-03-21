@@ -20,17 +20,20 @@ export const dataSummarySlider = [
         name: 'Резюме тестировщик',
         desc: 'скачать',
         id: 3,
-    },{
+    },
+    {
         imageSrc: designer,
         name: 'Резюме дизайнер',
         desc: 'скачать',
         id: 4,
-    },{
+    },
+    {
         imageSrc: developer,
         name: 'Резюме разработчик',
         desc: 'скачать',
         id: 5,
-    },{
+    },
+    {
         imageSrc: tester,
         name: 'Резюме тестировщик',
         desc: 'скачать',
