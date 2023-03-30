@@ -19,10 +19,11 @@ const Header = () => {
             <Link to="/entrance">
                 <p>Вход</p>
             </Link>
-            <BasicModal />
+            <BasicModal/>
             <div className="header__search">
                 <input type="search" placeholder="Search"/>
                 <img src={search} alt="search"/>
+                p
             </div>
         </div>
     )
